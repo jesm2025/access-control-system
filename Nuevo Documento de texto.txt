@@ -1,0 +1,23 @@
+access-control-system/
+├── package.json                    ← Archivo 1
+├── .env.example                    ← Archivo 2
+├── README.md                       ← Archivo 3
+├── .gitignore                      ← Archivo 4
+├── docker-compose.yml              ← Archivo 5
+├── quick-setup.bat                 ← Archivo 10
+├── setup-git.bat                   ← Archivo 11
+├── backend/
+│   ├── package.json                ← Archivo 6
+│   └── src/
+│       └── server.js               ← Archivo 7
+└── frontend/
+    ├── package.json                ← Archivo 8
+    ├── tailwind.config.js          ← Archivo 12
+    ├── postcss.config.js           ← Archivo 13
+    ├── src/
+    │   ├── App.js                  ← Archivo 9
+    │   ├── index.js                ← Archivo 10
+    │   ├── App.css                 ← Archivo 11
+    │   └── index.css               ← Archivo 12
+    └── public/
+        └── index.html              ← Archivo 13
